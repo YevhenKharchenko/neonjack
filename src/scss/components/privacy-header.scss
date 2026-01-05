@@ -1,5 +1,5 @@
 .privacy-header {
-  background: #210f0f;
+  background: #1d092b;
   padding-top: 12px;
   padding-bottom: 12px;
   position: fixed;
@@ -15,11 +15,11 @@
   display: flex;
   align-items: center;
   gap: 12px;
-  font-family: 'Asap', sans-serif;
+  font-family: 'Roboto Flex', sans-serif;
   font-weight: 400;
   font-size: 16px;
   text-align: center;
-  color: #fff3e9;
+  color: #e2dbee;
   max-width: max-content;
 
   @include media(desktop) {

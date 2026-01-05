@@ -21,7 +21,7 @@ gallerySwiper = new Swiper('.gallery-swiper-container', {
     1440: {
       slidesPerView: 'auto',
       initialSlide: 2,
-      spaceBetween: 32,
+      spaceBetween: 24,
     },
   },
 
